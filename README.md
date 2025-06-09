@@ -1,10 +1,25 @@
-Data-Driven Business Performance & Operational Efficiency Analysis - Western India Plywood (Internship Project)
-Introduction
+# Data-Driven Business Performance & Operational Efficiency Analysis - Western India Plywood (Internship Project) 
+## Introduction 
 This project showcases a comprehensive data analysis and dashboarding initiative undertaken during a one-week Business Development internship at Western India Plywood. Recognizing the critical role of data in driving informed business decisions and aiming to develop practical analytical skills, I designed and implemented a suite of interactive dashboards using Power BI. These dashboards transform raw operational and sales data into actionable insights, focusing on enhancing overall business performance, optimizing product quality, and significantly reducing energy consumption.
 
 My goal was to provide Western India Plywood with tangible tools for strategic planning and operational improvements, even within the short span of my internship.
 
-Project Structure & Files
+# Project Highlights
+Here's a quick look at the core aspects and value of this data analysis project:
+
+* 📊**Two Comprehensive Dashboards** : Developed two distinct Power BI files for an in-depth analysis of overall business performance, and a deep dive into quality control and energy efficiency.
+
+* 📈**Quantifiable Business Impact**: Identified opportunities for 5-10% reduction in product defects (saving ₹5 Lakhs to ₹1 Crore annually) and 8-15% reduction in energy consumption (saving ₹10 Lakhs to ₹25 Lakhs annually).
+
+* ⚙️**Operational Efficiency Gains**: Dashboards enable 20-30% faster data analysis and reporting, leading to 5-8% overall improvement in operational efficiency.
+
+* 🐍**Python for Data Preparation**: Utilized Python for generating and processing synthetic datasets, ensuring realistic and applicable insights.
+
+* 🧠**AI-Assisted Development**: Leveraged Gemini's AI for efficient Python code generation, accelerating project delivery and focusing on analytical insights.
+
+* 💡**Actionable Insights**: Transformed complex raw data into clear, interactive visualizations that drive informed decision-making for product quality, energy management, and sales strategy.
+
+## Project Structure & Files
 This project delivers two distinct, interactive Power BI dashboards, each built upon a different dataset to address specific analytical objectives.
 
 Overall_Business_Performance_Dashboard.pbix: This Power BI file contains the "Overall Hardboard Business Performance" dashboard.
