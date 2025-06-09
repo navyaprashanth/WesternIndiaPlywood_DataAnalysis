@@ -30,7 +30,7 @@ This project delivers two distinct, interactive Power BI dashboards, each built 
 
 **['data/overall_business_data.csv'](https://github.com/navyaprashanth/WesternIndiaPlywood_DataAnalysis/blob/main/data/overall_business_data.csv.csv)**
 
-**['data/quality_energy_data.csv'](
+**['data/quality_energy_data.csv'](https://github.com/navyaprashanth/WesternIndiaPlywood_DataAnalysis/blob/main/data/quality_energy_data.csv.csv)**
 
 (Optional) scripts/: If you used Python scripts for processing, cleaning, or transforming these CSVs before loading into Power BI, you could place them in a scripts/ folder (e.g., scripts/data_preprocessing.py).
 
