@@ -42,17 +42,17 @@ This project demonstrates proficiency in end-to-end data analysis, from data pre
 ## Dataset Overview
 The analytical insights presented in this project are derived from a single, carefully structured synthetic CSV dataset. This dataset was meticulously designed to simulate realistic manufacturing operations for hardboard production.
 
-* **['Quality & Energy Dataset']()** (data/quality_energy_data.csv):
+* **['Quality & Energy Dataset'](https://github.com/navyaprashanth/WesternIndiaPlywood_DataAnalysis/blob/main/hardboard_production_data.csv)** ):
 
-Simulates detailed production batch information, specific defect occurrences and types, energy consumption (electrical and steam), and various granular production parameters (e.g., press temperature, cycle time, material compositions).
+   * Simulates detailed production batch information, specific defect occurrences and types, energy consumption (electrical and steam), and various granular production parameters (e.g., press temperature, cycle time, material compositions).
 (Here, embed a snippet or screenshot of your quality_energy_data.csv file, perhaps showing the first few rows of the CSV content. You can also include a short video demonstrating the Python script generating this data if applicable.)
 
 While synthetic, this dataset ensures that the analytical methodologies and the dashboard's capabilities are directly applicable and transferable to real-world operational data encountered in manufacturing environments.
 
-Dashboard Breakdown
+## Dashboard Breakdown
 The project features a single Power BI file, containing two interconnected dashboard pages, serving specific analytical purposes related to operational efficiency.
 
-Dashboard File: Quality_Energy_Deep_Dive_Dashboard.pbix
+**Dashboard File**: **['Quality_Energy_Deep_Dive_Dashboard.pbix'](
 1.1. Deep Dive: Quality Analysis & Improvements (Page 1: Overall Summary)
 Objective: To serve as an initial summary for a deeper investigation into operational aspects, specifically focusing on product quality and overall energy consumption, highlighting immediate areas of concern.
 
