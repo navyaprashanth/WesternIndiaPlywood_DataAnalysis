@@ -22,9 +22,9 @@ Here's a quick look at the core aspects and value of this data analysis project:
 ## Project Structure & Files
 This project delivers two distinct, interactive Power BI dashboards, each built upon a different dataset to address specific analytical objectives.
 
-**Overall_Business_Performance_Dashboard.pbix**: This Power BI file contains the "Overall Hardboard Business Performance" dashboard.
+**['Overall_Business_Performance_Dashboard.pbix'](https://github.com/navyaprashanth/WesternIndiaPlywood_DataAnalysis/blob/main/Overall_Business_Performance_Dashboard.pbix)**: This Power BI file contains the "Overall Hardboard Business Performance" dashboard.
 
-Quality_Energy_Deep_Dive_Dashboard.pbix: This Power BI file contains the "Deep Dive: Quality Analysis & Improvements" (with two pages) and the "Deep Dive: Energy Consumption & Efficiency" dashboards.
+**['Quality_Energy_Deep_Dive_Dashboard.pbix'](: This Power BI file contains the "Deep Dive: Quality Analysis & Improvements" (with two pages) and the "Deep Dive: Energy Consumption & Efficiency" dashboards.
 
 data/: This directory contains the raw CSV data files used for analysis in both dashboards.
 
