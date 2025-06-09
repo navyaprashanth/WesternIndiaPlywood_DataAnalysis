@@ -42,7 +42,7 @@ This project demonstrates proficiency in end-to-end data analysis, from data pre
 ## Dataset Overview
 The analytical insights presented in this project are derived from a single, carefully structured synthetic CSV dataset. This dataset was meticulously designed to simulate realistic manufacturing operations for hardboard production.
 
-* **['Quality & Energy Dataset'](** (data/quality_energy_data.csv):
+* **['Quality & Energy Dataset']()** (data/quality_energy_data.csv):
 
 Simulates detailed production batch information, specific defect occurrences and types, energy consumption (electrical and steam), and various granular production parameters (e.g., press temperature, cycle time, material compositions).
 (Here, embed a snippet or screenshot of your quality_energy_data.csv file, perhaps showing the first few rows of the CSV content. You can also include a short video demonstrating the Python script generating this data if applicable.)
