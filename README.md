@@ -26,9 +26,9 @@ This project delivers a single, distinct, interactive Power BI dashboard focused
 
 **['data/'](https://github.com/navyaprashanth/WesternIndiaPlywood_DataAnalysis/tree/main/data)**: This directory contains the raw CSV data file used for analysis in the dashboard.
 
-**['data/quality_energy_data.csv'](
+**['data/quality_energy_data.csv'](https://github.com/navyaprashanth/WesternIndiaPlywood_DataAnalysis/blob/main/Quality_Energy_Deep_Dive_Dashboard.pbix)**
 
-(Optional) scripts/: If you used Python scripts for processing, cleaning, or transforming these CSVs before loading into Power BI, you could place them in a scripts/ folder (e.g., scripts/data_preprocessing.py).
+**['scripts/'](: If you used Python scripts for processing, cleaning, or transforming these CSVs before loading into Power BI, you could place them in a scripts/ folder (e.g., scripts/data_preprocessing.py).
 
 Technologies & Skills Used
 This project demonstrates proficiency in end-to-end data analysis, from data preparation to visualization and insight generation.
