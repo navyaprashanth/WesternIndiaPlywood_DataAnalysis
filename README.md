@@ -22,9 +22,9 @@ Here's a quick look at the core aspects and value of this data analysis project:
 ## Project Structure & Files
 This project delivers a single, distinct, interactive Power BI dashboard focused on operational efficiency.
 
-**['Quality_Energy_Deep_Dive_Dashboard.pbix'](: This Power BI file contains the multi-page dashboard for "Deep Dive: Quality Analysis & Improvements" and "Deep Dive: Energy Consumption & Efficiency."
+**['Quality_Energy_Deep_Dive_Dashboard.pbix'](https://github.com/navyaprashanth/WesternIndiaPlywood_DataAnalysis/blob/main/Quality_Energy_Deep_Dive_Dashboard.pbix)**: This Power BI file contains the multi-page dashboard for "Deep Dive: Quality Analysis & Improvements" and "Deep Dive: Energy Consumption & Efficiency."
 
-data/: This directory contains the raw CSV data file used for analysis in the dashboard.
+**['data/'](: This directory contains the raw CSV data file used for analysis in the dashboard.
 
 data/quality_energy_data.csv
 
