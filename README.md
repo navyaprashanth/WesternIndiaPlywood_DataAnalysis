@@ -9,9 +9,9 @@ Here's a quick look at the core aspects and value of this data analysis project:
 
 * 📊 **In-Depth Operational Dashboard**: Developed a comprehensive Power BI dashboard for a deep dive into product quality control and energy efficiency in manufacturing.
 
-* 📈 **Quantifiable Impact on Operations**: Identified opportunities for 5-10% reduction in product defects (saving ₹5 Lakhs to ₹1 Crore annually) and 8-15% reduction in energy consumption (saving ₹10 Lakhs to ₹25 Lakhs annually).
+* 📈 **Quantifiable Impact on Operations**: Identified opportunities for **5-10% reduction in product defects (saving ₹5 Lakhs to ₹1 Crore annually)** and **8-15% reduction in energy consumption (saving ₹10 Lakhs to ₹25 Lakhs annually).**
 
-* ⚙️ **Accelerated Problem Solving**: Dashboards enable 20-30% faster identification of quality issues and energy waste, leading to more agile and effective operational adjustments.
+* ⚙️ **Accelerated Problem Solving**: Dashboards enable **20-30% faster identification of quality issues and energy waste**, leading to more agile and effective operational adjustments.
 
 * 🐍 **Python for Data Preparation**: Utilized Python for generating and processing synthetic datasets, ensuring realistic and applicable insights into manufacturing processes.
 
@@ -28,21 +28,21 @@ This project delivers a single, distinct, interactive Power BI dashboard focused
 
 **['data/quality_energy_data.csv'](https://github.com/navyaprashanth/WesternIndiaPlywood_DataAnalysis/blob/main/Quality_Energy_Deep_Dive_Dashboard.pbix)**
 
-**['scripts/'](: If you used Python scripts for processing, cleaning, or transforming these CSVs before loading into Power BI, you could place them in a scripts/ folder (e.g., scripts/data_preprocessing.py).
+**['scripts/'](https://github.com/navyaprashanth/WesternIndiaPlywood_DataAnalysis/blob/main/hardboard_production_data.ipynb)**: This directory contains the data that was generated. 
 
-Technologies & Skills Used
+## Technologies & Skills Used
 This project demonstrates proficiency in end-to-end data analysis, from data preparation to visualization and insight generation.
 
-🐍 Python: Utilized for initial data generation (which produced the CSV) and potentially for further data processing, cleaning, and transformation of the CSV file using libraries like pandas and numpy.
+* 🐍 **Python**: Utilized for initial data generation (which produced the CSV) and potentially for further data processing, cleaning, and transformation of the CSV file using libraries like pandas and numpy.
 
-📊 Power BI: Employed for creating interactive, visually compelling, and user-friendly dashboards.
+* 📊 **Power BI**: Employed for creating interactive, visually compelling, and user-friendly dashboards.
 
-🧠 AI Assistance (Gemini): Leveraged for efficient Python code generation and debugging. This approach allowed for rapid prototyping and enabled a concentrated focus on analytical problem-solving and insightful visualization, rather than manual coding complexities, significantly accelerating project delivery.
+* 🧠 **AI Assistance (Gemini)**: Leveraged for efficient Python code generation and debugging. This approach allowed for rapid prototyping and enabled a concentrated focus on analytical problem-solving and insightful visualization, rather than manual coding complexities, significantly accelerating project delivery.
 
-Dataset Overview
+## Dataset Overview
 The analytical insights presented in this project are derived from a single, carefully structured synthetic CSV dataset. This dataset was meticulously designed to simulate realistic manufacturing operations for hardboard production.
 
-Quality & Energy Dataset (data/quality_energy_data.csv):
+* **['Quality & Energy Dataset'](** (data/quality_energy_data.csv):
 
 Simulates detailed production batch information, specific defect occurrences and types, energy consumption (electrical and steam), and various granular production parameters (e.g., press temperature, cycle time, material compositions).
 (Here, embed a snippet or screenshot of your quality_energy_data.csv file, perhaps showing the first few rows of the CSV content. You can also include a short video demonstrating the Python script generating this data if applicable.)
