@@ -1,5 +1,5 @@
-Data-Driven Business Performance & Operational Efficiency Analysis - Western India Plywood (Internship Project)
-Introduction
+#Data-Driven Business Performance & Operational Efficiency Analysis - Western India Plywood (Internship Project)
+Introduction#
 This project showcases a comprehensive data analysis and dashboarding initiative undertaken during a one-week Business Development internship at Western India Plywood. Recognizing the critical role of data in driving informed business decisions and aiming to develop practical analytical skills, I designed and implemented a suite of interactive dashboards using Power BI. These dashboards transform raw operational and sales data into actionable insights, focusing on enhancing overall business performance, optimizing product quality, and significantly reducing energy consumption.
 
 My goal was to provide Western India Plywood with tangible tools for strategic planning and operational improvements, even within the short span of my internship.
