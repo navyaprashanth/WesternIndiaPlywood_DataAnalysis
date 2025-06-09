@@ -26,9 +26,9 @@ This project delivers two distinct, interactive Power BI dashboards, each built 
 
 **['Quality_Energy_Deep_Dive_Dashboard.pbix'](https://github.com/navyaprashanth/WesternIndiaPlywood_DataAnalysis/blob/main/Quality_Energy_Deep_Dive_Dashboard.pbix)**: This Power BI file contains the "Deep Dive: Quality Analysis & Improvements" (with two pages) and the "Deep Dive: Energy Consumption & Efficiency" dashboards.
 
-data/: This directory contains the raw CSV data files used for analysis in both dashboards.
+**['data/'](https://github.com/navyaprashanth/WesternIndiaPlywood_DataAnalysis/tree/main/data)**: This directory contains the raw CSV data files used for analysis in both dashboards.
 
-data/overall_business_data.csv
+**['data/overall_business_data.csv'](
 
 data/quality_energy_data.csv
 
