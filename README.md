@@ -66,7 +66,8 @@ The project features a single Power BI file, containing three interconnected das
 * ⚡ **Operational Trends**: Includes line charts for "Total Energy KWh by Date" and "Avg Hardboard Strength & Density by Date," offering daily views of energy usage and key product quality attributes over time.
 
 * 🌡️ **Contextual Slicers**: Features interactive slicers like "Press Temperature," which has a **tooltip explaining its critical importance** to both product quality and energy efficiency in the hardboard (plywood-like material) manufacturing process.
-(Here, insert a screenshot of this dashboard page. You can also include a short video demonstrating hovering over the Defect breakdown pie chart to show the tooltip explanations.)
+
+https://github.com/user-attachments/assets/0c12e453-7d59-4f8e-b7cf-077c4d2d0172
 
 ### Questions Answered by this Dashboard:
 
