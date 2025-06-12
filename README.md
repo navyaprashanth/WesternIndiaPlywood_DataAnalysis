@@ -118,7 +118,8 @@ https://github.com/user-attachments/assets/c925feb8-0184-47b1-9981-87d81520ac56
 * 🎯 **Targeted Energy Efficiency**: A bar chart displaying **"Total Energy by Selected Parameter Bins" incorporates green and red dotted lines to represent energy consumption targets**. Tooltips specify that green indicates ideal consumption, while red denotes excessive usage, allowing for clear performance assessment.
 
 * 🔍 **High-Impact Identification**: A "Top 5 Most Energy Intensive Batches" table pinpoints specific production runs with the highest energy consumption, facilitating focused investigations for root cause analysis and immediate efficiency improvements.
-(Here, insert a screenshot of this dashboard page. You can also include a short video demonstrating interaction with the "Select Energy Driver" slicers and how "Total Energy" changes. Consider a video showcasing the tooltips on the green and red target lines.)
+  
+https://github.com/user-attachments/assets/175e6343-ccc4-48e2-91d4-375fb03ce5f9
 
 ### Questions Answered by this Dashboard:
 
