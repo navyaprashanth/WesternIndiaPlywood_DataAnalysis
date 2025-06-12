@@ -44,7 +44,8 @@ The analytical insights presented in this project are derived from a single, car
 * **['Quality & Energy Dataset'](https://github.com/navyaprashanth/WesternIndiaPlywood_DataAnalysis/blob/main/hardboard_production_data.csv)**:
 
    * Simulates detailed production batch information, specific defect occurrences and types, energy consumption (electrical and steam), and various granular production parameters (e.g., press temperature, cycle time, material compositions).
-(Here, embed a snippet or screenshot of your quality_energy_data.csv file, perhaps showing the first few rows of the CSV content. You can also include a short video demonstrating the Python script generating this data if applicable.)
+  
+https://github.com/user-attachments/assets/95da377e-4ea5-485f-abb7-f27d004e8345
 
 While synthetic, this dataset ensures that the analytical methodologies and the dashboard's capabilities are directly applicable and transferable to real-world operational data encountered in manufacturing environments.
 
