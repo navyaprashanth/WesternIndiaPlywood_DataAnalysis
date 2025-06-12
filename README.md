@@ -89,7 +89,8 @@ https://github.com/user-attachments/assets/0c12e453-7d59-4f8e-b7cf-077c4d2d0172
 * 🔥 **Parameter-Specific Defect Analysis**: **A bar chart illustrates "Total Defects by Press Temperature," prominently featuring a red dotted line representing a "target for defect reduction**".An accompanying text box clarifies that this chart helps understand why targets are missed and encourages parameter selection to refine goals.
 
 * ⚙️ **Interactive Quality Parameter Slicers**: Allows users to filter and analyze defects based on various quality-related production parameters (e.g., Press Pressure, Cycle Time, Resin Content, Fiber Consistency, Moisture Content, Hardboard Density). This interactive exploration supports precise root cause analysis.
-(Here, insert a screenshot of this dashboard page. You can also include a short video demonstrating how interacting with the "Quality Parameter Slicers" changes the data in the "Total Defects by Press Temperature" chart.)
+* 
+https://github.com/user-attachments/assets/c925feb8-0184-47b1-9981-87d81520ac56
 
 ### Questions Answered by this Dashboard:
 
