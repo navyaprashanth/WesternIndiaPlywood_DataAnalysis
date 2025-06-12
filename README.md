@@ -27,6 +27,8 @@ This project delivers a single, distinct, interactive Power BI dashboard focused
 **['data/quality_energy_data.csv'](https://github.com/navyaprashanth/WesternIndiaPlywood_DataAnalysis/blob/main/Quality_Energy_Deep_Dive_Dashboard.pbix)**
 : This directory contains the raw CSV data file used for analysis in the dashboard.
 
+https://github.com/user-attachments/assets/9357189e-ffed-4691-8c24-b35cb063f983
+
 **['scripts/'](https://github.com/navyaprashanth/WesternIndiaPlywood_DataAnalysis/blob/main/hardboard_production_data.ipynb)**: This directory contains the data that was generated. 
 
 ## Technologies & Skills Used
