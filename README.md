@@ -102,7 +102,6 @@ https://github.com/user-attachments/assets/c925feb8-0184-47b1-9981-87d81520ac56
 
 * By selecting specific quality parameters (e.g., Press_Pressure_kpsi, Moisture_Content_PrePress_pct), how do they individually influence the number of defects per batch?
 
-* What is the average number of defects found per production batch, indicating overall production quality consistency?
 
 ## 1.3. Deep Dive: Energy Consumption & Efficiency (Page 3: Defect Analysis)
 **Objective**: To conduct an in-depth analysis of energy consumption patterns within hardboard manufacturing, identify key drivers of energy usage, and uncover opportunities for significant cost savings through process optimization.
