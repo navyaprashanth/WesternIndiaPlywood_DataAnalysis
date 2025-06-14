@@ -126,13 +126,11 @@ https://github.com/user-attachments/assets/175e6343-ccc4-48e2-91d4-375fb03ce5f9
 
 * What are the current average and total electrical energy (KWh) and steam (kg) consumption figures for hardboard production?
 
-* How do average electrical and steam energy consumption per batch trend over time, and are there any specific periods of unusually high or low usage?
+* How do average electrical and steam energy consumption per batch trend over time, and are there any periods where target was reached?
 
 * Which specific production parameter (e.g., Press_Temperature_C, Press_Cycle_Time_min) has the most significant impact on overall energy consumption, and are we operating within our defined energy efficiency targets for these parameters?
 
 * What are the top 5 most energy-intensive production batches, and when did they occur, allowing for targeted investigation into potential inefficiencies?
-
-* Is there an optimal balance between achieving desired hardboard strength and the energy consumed per batch?
 
 ## Quantifiable Business Impact & Value Proposition
 This project demonstrates a proactive approach to business optimization through data analysis. By developing this dashboard, I aimed to provide Western India Plywood with tangible, data-driven insights for strategic decision-making and operational improvements.
